@@ -56,3 +56,15 @@ The objective of this project is to develop a **deep learning model** using **RN
    ```bash
    git clone https://github.com/your-repository-name.git
    cd your-repository-name
+
+2. **Install dependencies using:**
+   ```bash
+   pip install -r requirements.txt
+
+3. **Run the Streamlit app:**
+   ```bash
+   streamlit run main.py
+
+4. **Run the Streamlit app:**
+   ```bash
+   Open the Streamlit UI, enter a movie review, and get sentiment classification.
