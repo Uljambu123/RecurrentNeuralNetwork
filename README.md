@@ -68,3 +68,11 @@ The objective of this project is to develop a **deep learning model** using **RN
 4. **Run the Streamlit app:**
    ```bash
    Open the Streamlit UI, enter a movie review, and get sentiment classification.
+
+
+## 🛠️ Future Work
+- Improve model accuracy by using LSTM or GRU instead of Simple RNN.
+- Fine-tune embeddings for better word representation.
+- Expand dataset with more real-world movie reviews.
+- Deploy the app on a cloud service like AWS or Heroku.
+- Implement a confidence interval for sentiment prediction.
